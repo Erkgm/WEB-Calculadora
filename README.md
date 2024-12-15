@@ -18,10 +18,11 @@ Este é um projeto de **Calculadora** simples e funcional, desenvolvido para pra
 - **Adição (+)**  
 - **Subtração (-)**  
 - **Multiplicação (×)**  
-- **Divisão (÷)**  
+- **Divisão (÷)**
+- **Parenteses () (sem funcionalidade)**
+- ** % e raiz quadrada (sem funcionalidade)**
 
 ### 📋 Outros Recursos
 - Interface amigável e de fácil utilização.
-- Exibição do histórico de cálculos (futuro).
-- Responsividade para dispositivos móveis (futuro).
+- Responsividade para dispositivos móveis.
 
